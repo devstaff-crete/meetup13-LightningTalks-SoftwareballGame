@@ -4,7 +4,7 @@
 
 1. [Comments on docker 1.12](https://github.com/devstaff-crete/meetup13-LightningTalks-SoftwareballGame/blob/master/presentations/docker1.12.lt.devstaff.pdf)
 2. Deployment to AWS ECS 
-3. Running an TOR EXIT NODE for fun and emails
+3. [Running an TOR EXIT NODE for fun and emails]( https://blog.daknob.net/running-a-tor-exit-node-for-fun-and-e-mails/)
 4. Cool Tools
 5. Swagger/OPENAPI Swag
 6. Purely Preventative
