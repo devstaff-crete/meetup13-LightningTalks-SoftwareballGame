@@ -8,7 +8,7 @@
 4. Cool Tools
 5. Swagger/OPENAPI Swag
 6. Purely Preventative
-7. Freelancing with the world
+7. [Freelancing with the world](https://github.com/devstaff-crete/meetup13-LightningTalks-SoftwareballGame/blob/master/presentations/lightingTalks-Freelancer.pdf)
 
 After the talks we played the soft(ware) ball game.
 
