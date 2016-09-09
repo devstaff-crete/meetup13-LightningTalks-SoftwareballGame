@@ -6,7 +6,8 @@
 2. Deployment to AWS ECS 
 3. Running an TOR EXIT NODE for fun and emails
 4. Cool Tools
-5. Swagger/OPENAPI Swag6. Purely Preventative
+5. Swagger/OPENAPI Swag
+6. Purely Preventative
 7. Freelancing with the world
 
 After the talks we played the soft(ware) ball game.
