@@ -2,7 +2,7 @@
 
 ## Lightning Talks
 
-1. [Comments on docker 1.12](https://github.com/devstaff-crete/meetup13-LightningTalks-SoftwareballGame/presentations/docker1.12.lt.devstaff.pdf)
+1. [Comments on docker 1.12](https://github.com/devstaff-crete/meetup13-LightningTalks-SoftwareballGame/blob/master/presentations/docker1.12.lt.devstaff.pdf)
 2. Deployment to AWS ECS 
 3. Running an TOR EXIT NODE for fun and emails
 4. Cool Tools
